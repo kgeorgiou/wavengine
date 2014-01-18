@@ -1,6 +1,6 @@
 #wavengine
 
-###A library for editing WAV audio images.
+###A library for editing WAV audio files.
 
 Useful information on WAV file format:
 http://en.wikipedia.org/wiki/WAV
