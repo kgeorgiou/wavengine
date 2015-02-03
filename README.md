@@ -5,7 +5,7 @@
 Useful information on WAV file format:
 http://en.wikipedia.org/wiki/WAV
 
-##Get Started
+##Getting Started
 
 Once you have the source code,
 while in the wavengine directory
